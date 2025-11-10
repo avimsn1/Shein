@@ -1,1 +1,1 @@
-worker: Git.py
+worker: python Git.py
