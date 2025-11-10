@@ -1,1 +1,1 @@
-worker: python shein_monitor_bot.py
+worker: git.py
